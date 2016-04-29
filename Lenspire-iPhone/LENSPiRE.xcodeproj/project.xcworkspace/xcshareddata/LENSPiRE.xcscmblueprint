@@ -1,0 +1,42 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "763398BC77AD30DE9A8572974FEE6DCEEBF50211",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "0EB4A2C509AB819AE7ABB1F722BD2B1816919B8C" : {
+
+    },
+    "dea23c32-f0f5-48de-b215-6364ce8a07fe++8953" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0EB4A2C509AB819AE7ABB1F722BD2B1816919B8C" : 0,
+    "763398BC77AD30DE9A8572974FEE6DCEEBF50211" : 0,
+    "dea23c32-f0f5-48de-b215-6364ce8a07fe++8953" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "38F4A012-8724-4C7F-8C63-A948C223F542",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0EB4A2C509AB819AE7ABB1F722BD2B1816919B8C" : "LENSPiRE\/",
+    "763398BC77AD30DE9A8572974FEE6DCEEBF50211" : "Lenspire-iPhone\/",
+    "dea23c32-f0f5-48de-b215-6364ce8a07fe++8953" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LENSPiRE",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LENSPiRE.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/68.169.58.230\/LenspireMobile",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0EB4A2C509AB819AE7ABB1F722BD2B1816919B8C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/neshinc\/Lenspire-iPhone.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "763398BC77AD30DE9A8572974FEE6DCEEBF50211"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/68.169.58.230\/LenspireMobile",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "dea23c32-f0f5-48de-b215-6364ce8a07fe++8953"
+    }
+  ]
+}
